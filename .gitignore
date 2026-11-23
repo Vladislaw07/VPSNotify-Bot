@@ -1,0 +1,18 @@
+# env файли
+.env
+
+# кеш python
+__pycache__/
+*.pyc
+
+# виртуальні середовища
+.venv/
+venv/
+env/
+
+# system files
+.DS_Store
+database/...
+
+# налаштування VSCode
+.vscode/settings.json
